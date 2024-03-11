@@ -1,5 +1,5 @@
-# Desafio - Desafio de testes
-Realização de testes conforme os cursos da Microsoft:
+# Desafio Pytest - Desafio de testes
+Realização de testes conforme os cursos da Microsoft abaixo:
 
 - [Introdução a testes no Python (Desafio 5)](https://learn.microsoft.com/pt-br/training/modules/python-get-started-testing/)
 - [Fazer testes com Pytest (Desafio 5)](https://learn.microsoft.com/pt-br/training/modules/test-python-with-pytest/)
@@ -20,7 +20,6 @@ Os testes estão divididos nas branches desse repositório
 - Introdução a testes no Python 
 ```git
 IntroducaoTest_SquadGraceHopper
-
 ```
 - Fazer testes com Pytest
 ```git
@@ -32,7 +31,8 @@ AvancadoPytest_SquadGraceHopper
 ```git
 FazerPytest_SquadGraceHopper
 ```
-
+# Organização da Squad para resolução do desafio
+- Reuniões online e usamos a técnica do Mob Programming;
 
 # Squad Grace Hopper
 1. Adriana Lúcia de França Rodrigues:<BR>
