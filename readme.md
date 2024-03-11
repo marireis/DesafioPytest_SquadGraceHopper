@@ -8,7 +8,7 @@ Realização de testes conforme os cursos da Microsoft:
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<img src="https://github.com/marireis/pyhton-testes" alt="Desafio de testes com Python">
+Link deste repositório: <img src="https://github.com/marireis/pyhton-testes" alt="Desafio de testes com Python">
 
 # Tecnologia utilizada 
 * Python 3
